@@ -43,17 +43,10 @@ This repository contains the Bus Reservation System Management project developed
 
 ![Screenshot 3](screenshots/3.png "User Menu")
 
-- Book Ticket
-
-![Screenshot 4](screenshots/4.png "Book Ticket")
-
 - Admin Menu
 
-![Screenshot 5](screenshots/5.png "Admin Menu")
+![Screenshot 4](screenshots/5.png "Admin Menu")
 
-- Bus List
-
-![Screenshot 6](screenshots/6.png "Bus List")
 
 ## Getting Started
 
