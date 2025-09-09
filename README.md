@@ -45,7 +45,7 @@ This repository contains the Bus Reservation System Management project developed
 
 - Admin Menu
 
-![Screenshot 4](screenshots/5.png "Admin Menu")
+![Screenshot 4](screenshots/4.png "Admin Menu")
 
 
 ## Getting Started
