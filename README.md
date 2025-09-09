@@ -101,7 +101,6 @@ The project directory typically contains the following files:
 - `main.cpp`: The main entry point of the application.
 - `Bus.h` and `Bus.cpp`: Bus class definition and implementation.
 - `Reservation.h` and `Reservation.cpp`: Reservation class definition and implementation.
-- `data/`: A directory containing data files for buses and reservations.
 - `utils.h`: A file contains required utility functions.
 
 ## Classes and Methods
